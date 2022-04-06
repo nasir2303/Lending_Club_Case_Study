@@ -20,7 +20,7 @@ Objective is to find the major key variables which are the driving factors (or d
 	2. If the applicant is not likely to repay the loan, i.e. he/she is likely to default, then approving the loan may lead to a financial loss for the company.
 
 - This is from Fintech based problem.
-- Main driving factors (or driver variables) behind loan default, i.e. the variables which are strong indicators of default.
+- Objective is to find the main driving factors (or driver variables) behind loan default, i.e. the variables which are strong indicators of default.
 - Dataset - Loan.csv
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
